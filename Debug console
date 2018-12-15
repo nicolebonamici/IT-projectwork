@@ -1,1 +1,1509 @@
-
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_3455.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 19,
+            "max": 21,
+            "score": 0.9998412
+          },
+          "face_location": {
+            "height": 2113,
+            "width": 2036,
+            "left": 2009,
+            "top": 760
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999647
+          }
+        }
+      ],
+      "image": "IMG_3455.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 19, 'max': 21, 'score': 0.9998412}, 'face_location': {'height': 2113, 'width': 2036, 'left': 2009, 'top': 760}, 'gender': {'gender': 'FEMALE', 'score': 0.9999647}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2762.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 0,
+            "max": 12,
+            "score": 0.8201219
+          },
+          "face_location": {
+            "height": 1953,
+            "width": 1521,
+            "left": 71,
+            "top": 971
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.86690754
+          }
+        }
+      ],
+      "image": "IMG_2762.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 0, 'max': 12, 'score': 0.8201219}, 'face_location': {'height': 1953, 'width': 1521, 'left': 71, 'top': 971}, 'gender': {'gender': 'MALE', 'score': 0.86690754}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_0405.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 26,
+            "max": 29,
+            "score": 0.9651019
+          },
+          "face_location": {
+            "height": 529,
+            "width": 486,
+            "left": 1105,
+            "top": 287
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.99999046
+          }
+        }
+      ],
+      "image": "IMG_0405.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 26, 'max': 29, 'score': 0.9651019}, 'face_location': {'height': 529, 'width': 486, 'left': 1105, 'top': 287}, 'gender': {'gender': 'MALE', 'score': 0.99999046}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_0217.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 22,
+            "max": 25,
+            "score": 0.72914356
+          },
+          "face_location": {
+            "height": 277,
+            "width": 225,
+            "left": 589,
+            "top": 292
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9924136
+          }
+        }
+      ],
+      "image": "IMG_0217.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 22, 'max': 25, 'score': 0.72914356}, 'face_location': {'height': 277, 'width': 225, 'left': 589, 'top': 292}, 'gender': {'gender': 'FEMALE', 'score': 0.9924136}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_7949.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 20,
+            "max": 22,
+            "score": 0.9997018
+          },
+          "face_location": {
+            "height": 1114,
+            "width": 998,
+            "left": 2443,
+            "top": 1081
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.99998915
+          }
+        }
+      ],
+      "image": "IMG_7949.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 20, 'max': 22, 'score': 0.9997018}, 'face_location': {'height': 1114, 'width': 998, 'left': 2443, 'top': 1081}, 'gender': {'gender': 'FEMALE', 'score': 0.99998915}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_4271.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 20,
+            "max": 23,
+            "score": 0.93074673
+          },
+          "face_location": {
+            "height": 1368,
+            "width": 1230,
+            "left": 3107,
+            "top": 659
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.99871063
+          }
+        }
+      ],
+      "image": "IMG_4271.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 20, 'max': 23, 'score': 0.93074673}, 'face_location': {'height': 1368, 'width': 1230, 'left': 3107, 'top': 659}, 'gender': {'gender': 'FEMALE', 'score': 0.99871063}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_8098.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 20,
+            "max": 23,
+            "score": 0.9997106
+          },
+          "face_location": {
+            "height": 1116,
+            "width": 1048,
+            "left": 1350,
+            "top": 1245
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.9999851
+          }
+        }
+      ],
+      "image": "IMG_8098.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 20, 'max': 23, 'score': 0.9997106}, 'face_location': {'height': 1116, 'width': 1048, 'left': 1350, 'top': 1245}, 'gender': {'gender': 'MALE', 'score': 0.9999851}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_3456.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 13,
+            "max": 15,
+            "score": 0.9998768
+          },
+          "face_location": {
+            "height": 664,
+            "width": 610,
+            "left": 1482,
+            "top": 616
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.9908319
+          }
+        }
+      ],
+      "image": "IMG_3456.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 13, 'max': 15, 'score': 0.9998768}, 'face_location': {'height': 664, 'width': 610, 'left': 1482, 'top': 616}, 'gender': {'gender': 'MALE', 'score': 0.9908319}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_1042.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 15,
+            "max": 18,
+            "score": 0.8754568
+          },
+          "face_location": {
+            "height": 1242,
+            "width": 1197,
+            "left": 2296,
+            "top": 1181
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999931
+          }
+        }
+      ],
+      "image": "IMG_1042.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 15, 'max': 18, 'score': 0.8754568}, 'face_location': {'height': 1242, 'width': 1197, 'left': 2296, 'top': 1181}, 'gender': {'gender': 'FEMALE', 'score': 0.9999931}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_0228.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 19,
+            "max": 21,
+            "score": 0.99977523
+          },
+          "face_location": {
+            "height": 932,
+            "width": 879,
+            "left": 727,
+            "top": 225
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9997956
+          }
+        }
+      ],
+      "image": "IMG_0228.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 19, 'max': 21, 'score': 0.99977523}, 'face_location': {'height': 932, 'width': 879, 'left': 727, 'top': 225}, 'gender': {'gender': 'FEMALE', 'score': 0.9997956}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_0943.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 13,
+            "max": 16,
+            "score": 0.8480776
+          },
+          "face_location": {
+            "height": 1428,
+            "width": 1116,
+            "left": 1264,
+            "top": 1059
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.99998426
+          }
+        }
+      ],
+      "image": "IMG_0943.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 13, 'max': 16, 'score': 0.8480776}, 'face_location': {'height': 1428, 'width': 1116, 'left': 1264, 'top': 1059}, 'gender': {'gender': 'FEMALE', 'score': 0.99998426}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_3255.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 19,
+            "max": 21,
+            "score": 0.99987143
+          },
+          "face_location": {
+            "height": 928,
+            "width": 825,
+            "left": 1685,
+            "top": 389
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999937
+          }
+        }
+      ],
+      "image": "IMG_3255.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 19, 'max': 21, 'score': 0.99987143}, 'face_location': {'height': 928, 'width': 825, 'left': 1685, 'top': 389}, 'gender': {'gender': 'FEMALE', 'score': 0.9999937}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2764.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 20,
+            "max": 24,
+            "score": 0.7391555
+          },
+          "face_location": {
+            "height": 1598,
+            "width": 1680,
+            "left": 855,
+            "top": 915
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.99968183
+          }
+        }
+      ],
+      "image": "IMG_2764.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 20, 'max': 24, 'score': 0.7391555}, 'face_location': {'height': 1598, 'width': 1680, 'left': 855, 'top': 915}, 'gender': {'gender': 'FEMALE', 'score': 0.99968183}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_8275.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 26,
+            "max": 29,
+            "score": 0.8116338
+          },
+          "face_location": {
+            "height": 698,
+            "width": 665,
+            "left": 1444,
+            "top": 1218
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.99998343
+          }
+        }
+      ],
+      "image": "IMG_8275.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 26, 'max': 29, 'score': 0.8116338}, 'face_location': {'height': 698, 'width': 665, 'left': 1444, 'top': 1218}, 'gender': {'gender': 'FEMALE', 'score': 0.99998343}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_0415.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 32,
+            "max": 36,
+            "score": 0.65669143
+          },
+          "face_location": {
+            "height": 615,
+            "width": 570,
+            "left": 2433,
+            "top": 838
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.999998
+          }
+        }
+      ],
+      "image": "IMG_0415.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 32, 'max': 36, 'score': 0.65669143}, 'face_location': {'height': 615, 'width': 570, 'left': 2433, 'top': 838}, 'gender': {'gender': 'MALE', 'score': 0.999998}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_8277.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 25,
+            "max": 27,
+            "score": 0.99990004
+          },
+          "face_location": {
+            "height": 1403,
+            "width": 1180,
+            "left": 3751,
+            "top": 982
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.99999666
+          }
+        }
+      ],
+      "image": "IMG_8277.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 25, 'max': 27, 'score': 0.99990004}, 'face_location': {'height': 1403, 'width': 1180, 'left': 3751, 'top': 982}, 'gender': {'gender': 'MALE', 'score': 0.99999666}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_1535.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 23,
+            "max": 26,
+            "score": 0.9451669
+          },
+          "face_location": {
+            "height": 1626,
+            "width": 1383,
+            "left": 2040,
+            "top": 870
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.9999826
+          }
+        }
+      ],
+      "image": "IMG_1535.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 23, 'max': 26, 'score': 0.9451669}, 'face_location': {'height': 1626, 'width': 1383, 'left': 2040, 'top': 870}, 'gender': {'gender': 'MALE', 'score': 0.9999826}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_0158.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 0,
+            "max": 12,
+            "score": 0.33900398
+          },
+          "face_location": {
+            "height": 1996,
+            "width": 1886,
+            "left": 1851,
+            "top": 900
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999423
+          }
+        }
+      ],
+      "image": "IMG_0158.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 0, 'max': 12, 'score': 0.33900398}, 'face_location': {'height': 1996, 'width': 1886, 'left': 1851, 'top': 900}, 'gender': {'gender': 'FEMALE', 'score': 0.9999423}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_1520.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 15,
+            "max": 18,
+            "score": 0.999724
+          },
+          "face_location": {
+            "height": 2116,
+            "width": 1842,
+            "left": 1389,
+            "top": 1095
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.99991214
+          }
+        }
+      ],
+      "image": "IMG_1520.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 15, 'max': 18, 'score': 0.999724}, 'face_location': {'height': 2116, 'width': 1842, 'left': 1389, 'top': 1095}, 'gender': {'gender': 'FEMALE', 'score': 0.99991214}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2571.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 19,
+            "max": 22,
+            "score": 0.9828504
+          },
+          "face_location": {
+            "height": 1629,
+            "width": 1425,
+            "left": 2160,
+            "top": 939
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999832
+          }
+        }
+      ],
+      "image": "IMG_2571.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 19, 'max': 22, 'score': 0.9828504}, 'face_location': {'height': 1629, 'width': 1425, 'left': 2160, 'top': 939}, 'gender': {'gender': 'FEMALE', 'score': 0.9999832}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_8100.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 19,
+            "max": 21,
+            "score": 0.99980384
+          },
+          "face_location": {
+            "height": 1035,
+            "width": 1040,
+            "left": 1365,
+            "top": 1263
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.9998493
+          }
+        }
+      ],
+      "image": "IMG_8100.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 19, 'max': 21, 'score': 0.99980384}, 'face_location': {'height': 1035, 'width': 1040, 'left': 1365, 'top': 1263}, 'gender': {'gender': 'MALE', 'score': 0.9998493}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2729.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 0,
+            "max": 12,
+            "score": 0.63372123
+          },
+          "face_location": {
+            "height": 2290,
+            "width": 2430,
+            "left": 1394,
+            "top": 874
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.98945355
+          }
+        }
+      ],
+      "image": "IMG_2729.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 0, 'max': 12, 'score': 0.63372123}, 'face_location': {'height': 2290, 'width': 2430, 'left': 1394, 'top': 874}, 'gender': {'gender': 'FEMALE', 'score': 0.98945355}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2701.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 0,
+            "max": 12,
+            "score": 0.36695808
+          },
+          "face_location": {
+            "height": 1154,
+            "width": 977,
+            "left": 1970,
+            "top": 985
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.92992234
+          }
+        }
+      ],
+      "image": "IMG_2701.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 0, 'max': 12, 'score': 0.36695808}, 'face_location': {'height': 1154, 'width': 977, 'left': 1970, 'top': 985}, 'gender': {'gender': 'FEMALE', 'score': 0.92992234}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_6995.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 0,
+            "max": 12,
+            "score": 0.63688105
+          },
+          "face_location": {
+            "height": 827,
+            "width": 617,
+            "left": 543,
+            "top": 1629
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.7952997
+          }
+        }
+      ],
+      "image": "IMG_6995.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 0, 'max': 12, 'score': 0.63688105}, 'face_location': {'height': 827, 'width': 617, 'left': 543, 'top': 1629}, 'gender': {'gender': 'MALE', 'score': 0.7952997}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2675.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 20,
+            "max": 23,
+            "score": 0.8386975
+          },
+          "face_location": {
+            "height": 816,
+            "width": 752,
+            "left": 1416,
+            "top": 462
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.9998344
+          }
+        }
+      ],
+      "image": "IMG_2675.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 20, 'max': 23, 'score': 0.8386975}, 'face_location': {'height': 816, 'width': 752, 'left': 1416, 'top': 462}, 'gender': {'gender': 'MALE', 'score': 0.9998344}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2677.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 24,
+            "max": 28,
+            "score": 0.747251
+          },
+          "face_location": {
+            "height": 803,
+            "width": 699,
+            "left": 1756,
+            "top": 605
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.99999917
+          }
+        }
+      ],
+      "image": "IMG_2677.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 24, 'max': 28, 'score': 0.747251}, 'face_location': {'height': 803, 'width': 699, 'left': 1756, 'top': 605}, 'gender': {'gender': 'FEMALE', 'score': 0.99999917}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_3384.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 20,
+            "max": 23,
+            "score": 0.93441296
+          },
+          "face_location": {
+            "height": 1244,
+            "width": 1104,
+            "left": 3030,
+            "top": 758
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9997092
+          }
+        }
+      ],
+      "image": "IMG_3384.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 20, 'max': 23, 'score': 0.93441296}, 'face_location': {'height': 1244, 'width': 1104, 'left': 3030, 'top': 758}, 'gender': {'gender': 'FEMALE', 'score': 0.9997092}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_3193.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 14,
+            "max": 16,
+            "score": 0.9905352
+          },
+          "face_location": {
+            "height": 1172,
+            "width": 1030,
+            "left": 1830,
+            "top": 1099
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.99910283
+          }
+        }
+      ],
+      "image": "IMG_3193.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 14, 'max': 16, 'score': 0.9905352}, 'face_location': {'height': 1172, 'width': 1030, 'left': 1830, 'top': 1099}, 'gender': {'gender': 'FEMALE', 'score': 0.99910283}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_3811.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 15,
+            "max": 18,
+            "score": 0.8750491
+          },
+          "face_location": {
+            "height": 1324,
+            "width": 1095,
+            "left": 2404,
+            "top": 1065
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.8306033
+          }
+        }
+      ],
+      "image": "IMG_3811.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 15, 'max': 18, 'score': 0.8750491}, 'face_location': {'height': 1324, 'width': 1095, 'left': 2404, 'top': 1065}, 'gender': {'gender': 'FEMALE', 'score': 0.8306033}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_8405.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 23,
+            "max": 27,
+            "score": 0.77203435
+          },
+          "face_location": {
+            "height": 1067,
+            "width": 799,
+            "left": 480,
+            "top": 1192
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999939
+          }
+        }
+      ],
+      "image": "IMG_8405.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 23, 'max': 27, 'score': 0.77203435}, 'face_location': {'height': 1067, 'width': 799, 'left': 480, 'top': 1192}, 'gender': {'gender': 'FEMALE', 'score': 0.9999939}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_3357.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 19,
+            "max": 21,
+            "score": 0.99981093
+          },
+          "face_location": {
+            "height": 826,
+            "width": 711,
+            "left": 1142,
+            "top": 1110
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999695
+          }
+        }
+      ],
+      "image": "IMG_3357.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 19, 'max': 21, 'score': 0.99981093}, 'face_location': {'height': 826, 'width': 711, 'left': 1142, 'top': 1110}, 'gender': {'gender': 'FEMALE', 'score': 0.9999695}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_7910.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 18,
+            "max": 21,
+            "score": 0.9997091
+          },
+          "face_location": {
+            "height": 772,
+            "width": 667,
+            "left": 1114,
+            "top": 725
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.99991953
+          }
+        }
+      ],
+      "image": "IMG_7910.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 18, 'max': 21, 'score': 0.9997091}, 'face_location': {'height': 772, 'width': 667, 'left': 1114, 'top': 725}, 'gender': {'gender': 'FEMALE', 'score': 0.99991953}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2103.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 13,
+            "max": 16,
+            "score": 0.7077802
+          },
+          "face_location": {
+            "height": 1315,
+            "width": 1147,
+            "left": 1304,
+            "top": 1004
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999709
+          }
+        }
+      ],
+      "image": "IMG_2103.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 13, 'max': 16, 'score': 0.7077802}, 'face_location': {'height': 1315, 'width': 1147, 'left': 1304, 'top': 1004}, 'gender': {'gender': 'FEMALE', 'score': 0.9999709}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_9532.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 19,
+            "max": 21,
+            "score": 0.99991745
+          },
+          "face_location": {
+            "height": 405,
+            "width": 354,
+            "left": 917,
+            "top": 350
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.9999689
+          }
+        }
+      ],
+      "image": "IMG_9532.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 19, 'max': 21, 'score': 0.99991745}, 'face_location': {'height': 405, 'width': 354, 'left': 917, 'top': 350}, 'gender': {'gender': 'MALE', 'score': 0.9999689}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_1594.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 0,
+            "max": 12,
+            "score": 0.93332565
+          },
+          "face_location": {
+            "height": 545,
+            "width": 513,
+            "left": 1554,
+            "top": 425
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.6711095
+          }
+        }
+      ],
+      "image": "IMG_1594.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 0, 'max': 12, 'score': 0.93332565}, 'face_location': {'height': 545, 'width': 513, 'left': 1554, 'top': 425}, 'gender': {'gender': 'FEMALE', 'score': 0.6711095}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_0271.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 19,
+            "max": 21,
+            "score": 0.999833
+          },
+          "face_location": {
+            "height": 1409,
+            "width": 1174,
+            "left": 1150,
+            "top": 621
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999795
+          }
+        }
+      ],
+      "image": "IMG_0271.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 19, 'max': 21, 'score': 0.999833}, 'face_location': {'height': 1409, 'width': 1174, 'left': 1150, 'top': 621}, 'gender': {'gender': 'FEMALE', 'score': 0.9999795}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_7711.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 18,
+            "max": 21,
+            "score": 0.9997498
+          },
+          "face_location": {
+            "height": 1853,
+            "width": 1561,
+            "left": 1439,
+            "top": 742
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999845
+          }
+        }
+      ],
+      "image": "IMG_7711.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 18, 'max': 21, 'score': 0.9997498}, 'face_location': {'height': 1853, 'width': 1561, 'left': 1439, 'top': 742}, 'gender': {'gender': 'FEMALE', 'score': 0.9999845}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_0532.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 0,
+            "max": 12,
+            "score": 0.76240766
+          },
+          "face_location": {
+            "height": 643,
+            "width": 716,
+            "left": 1747,
+            "top": 558
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.92770654
+          }
+        }
+      ],
+      "image": "IMG_0532.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 0, 'max': 12, 'score': 0.76240766}, 'face_location': {'height': 643, 'width': 716, 'left': 1747, 'top': 558}, 'gender': {'gender': 'MALE', 'score': 0.92770654}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_3172.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 0,
+            "max": 12,
+            "score": 0.73503345
+          },
+          "face_location": {
+            "height": 2085,
+            "width": 1983,
+            "left": 872,
+            "top": 1020
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9890893
+          }
+        }
+      ],
+      "image": "IMG_3172.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 0, 'max': 12, 'score': 0.73503345}, 'face_location': {'height': 2085, 'width': 1983, 'left': 872, 'top': 1020}, 'gender': {'gender': 'FEMALE', 'score': 0.9890893}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2318.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 53,
+            "max": 56,
+            "score": 0.9178928
+          },
+          "face_location": {
+            "height": 1372,
+            "width": 1165,
+            "left": 1974,
+            "top": 871
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.99975246
+          }
+        }
+      ],
+      "image": "IMG_2318.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 53, 'max': 56, 'score': 0.9178928}, 'face_location': {'height': 1372, 'width': 1165, 'left': 1974, 'top': 871}, 'gender': {'gender': 'MALE', 'score': 0.99975246}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2495.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 0,
+            "max": 12,
+            "score": 0.37473783
+          },
+          "face_location": {
+            "height": 1606,
+            "width": 1428,
+            "left": 2630,
+            "top": 947
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.7576241
+          }
+        }
+      ],
+      "image": "IMG_2495.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 0, 'max': 12, 'score': 0.37473783}, 'face_location': {'height': 1606, 'width': 1428, 'left': 2630, 'top': 947}, 'gender': {'gender': 'MALE', 'score': 0.7576241}}
+----> /Users/nicolebonamici/Visual Studio Code/images/P1040213.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 19,
+            "max": 21,
+            "score": 0.9998677
+          },
+          "face_location": {
+            "height": 947,
+            "width": 841,
+            "left": 1963,
+            "top": 896
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9998209
+          }
+        }
+      ],
+      "image": "P1040213.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 19, 'max': 21, 'score': 0.9998677}, 'face_location': {'height': 947, 'width': 841, 'left': 1963, 'top': 896}, 'gender': {'gender': 'FEMALE', 'score': 0.9998209}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_8351.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 29,
+            "max": 33,
+            "score": 0.62537986
+          },
+          "face_location": {
+            "height": 795,
+            "width": 765,
+            "left": 2646,
+            "top": 929
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.99963546
+          }
+        }
+      ],
+      "image": "IMG_8351.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 29, 'max': 33, 'score': 0.62537986}, 'face_location': {'height': 795, 'width': 765, 'left': 2646, 'top': 929}, 'gender': {'gender': 'MALE', 'score': 0.99963546}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_0914.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 13,
+            "max": 16,
+            "score": 0.8165558
+          },
+          "face_location": {
+            "height": 996,
+            "width": 867,
+            "left": 1666,
+            "top": 632
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999789
+          }
+        }
+      ],
+      "image": "IMG_0914.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 13, 'max': 16, 'score': 0.8165558}, 'face_location': {'height': 996, 'width': 867, 'left': 1666, 'top': 632}, 'gender': {'gender': 'FEMALE', 'score': 0.9999789}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_0849.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 18,
+            "max": 21,
+            "score": 0.9997556
+          },
+          "face_location": {
+            "height": 1011,
+            "width": 988,
+            "left": 3262,
+            "top": 1356
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999765
+          }
+        }
+      ],
+      "image": "IMG_0849.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 18, 'max': 21, 'score': 0.9997556}, 'face_location': {'height': 1011, 'width': 988, 'left': 3262, 'top': 1356}, 'gender': {'gender': 'FEMALE', 'score': 0.9999765}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_9306.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 19,
+            "max": 21,
+            "score": 0.99985063
+          },
+          "face_location": {
+            "height": 318,
+            "width": 286,
+            "left": 900,
+            "top": 218
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.99983513
+          }
+        }
+      ],
+      "image": "IMG_9306.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 19, 'max': 21, 'score': 0.99985063}, 'face_location': {'height': 318, 'width': 286, 'left': 900, 'top': 218}, 'gender': {'gender': 'MALE', 'score': 0.99983513}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_6380.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 20,
+            "max": 23,
+            "score": 0.8970379
+          },
+          "face_location": {
+            "height": 1029,
+            "width": 909,
+            "left": 704,
+            "top": 1007
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.999915
+          }
+        }
+      ],
+      "image": "IMG_6380.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 20, 'max': 23, 'score': 0.8970379}, 'face_location': {'height': 1029, 'width': 909, 'left': 704, 'top': 1007}, 'gender': {'gender': 'MALE', 'score': 0.999915}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_0939.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 50,
+            "max": 53,
+            "score": 0.85002005
+          },
+          "face_location": {
+            "height": 1569,
+            "width": 1282,
+            "left": 2386,
+            "top": 680
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.99998057
+          }
+        }
+      ],
+      "image": "IMG_0939.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 50, 'max': 53, 'score': 0.85002005}, 'face_location': {'height': 1569, 'width': 1282, 'left': 2386, 'top': 680}, 'gender': {'gender': 'FEMALE', 'score': 0.99998057}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2727.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 0,
+            "max": 12,
+            "score": 0.6505421
+          },
+          "face_location": {
+            "height": 2103,
+            "width": 2299,
+            "left": 1495,
+            "top": 525
+          },
+          "gender": {
+            "gender": "MALE",
+            "score": 0.97513664
+          }
+        }
+      ],
+      "image": "IMG_2727.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 0, 'max': 12, 'score': 0.6505421}, 'face_location': {'height': 2103, 'width': 2299, 'left': 1495, 'top': 525}, 'gender': {'gender': 'MALE', 'score': 0.97513664}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_1549.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 20,
+            "max": 24,
+            "score": 0.6670711
+          },
+          "face_location": {
+            "height": 1405,
+            "width": 810,
+            "left": 1374,
+            "top": 160
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.99949765
+          }
+        }
+      ],
+      "image": "IMG_1549.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 20, 'max': 24, 'score': 0.6670711}, 'face_location': {'height': 1405, 'width': 810, 'left': 1374, 'top': 160}, 'gender': {'gender': 'FEMALE', 'score': 0.99949765}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_2242.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 42,
+            "max": 47,
+            "score": 0.56079495
+          },
+          "face_location": {
+            "height": 976,
+            "width": 990,
+            "left": 2143,
+            "top": 1282
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9990834
+          }
+        }
+      ],
+      "image": "IMG_2242.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 42, 'max': 47, 'score': 0.56079495}, 'face_location': {'height': 976, 'width': 990, 'left': 2143, 'top': 1282}, 'gender': {'gender': 'FEMALE', 'score': 0.9990834}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_8141.JPG
+{
+  "images": [
+    {
+      "faces": [
+        {
+          "age": {
+            "min": 52,
+            "max": 55,
+            "score": 0.8727496
+          },
+          "face_location": {
+            "height": 814,
+            "width": 734,
+            "left": 2437,
+            "top": 964
+          },
+          "gender": {
+            "gender": "FEMALE",
+            "score": 0.9999912
+          }
+        }
+      ],
+      "image": "IMG_8141.JPG"
+    }
+  ],
+  "images_processed": 1
+}
+{'age': {'min': 52, 'max': 55, 'score': 0.8727496}, 'face_location': {'height': 814, 'width': 734, 'left': 2437, 'top': 964}, 'gender': {'gender': 'FEMALE', 'score': 0.9999912}}
+----> /Users/nicolebonamici/Visual Studio Code/images/IMG_3176.JPG
